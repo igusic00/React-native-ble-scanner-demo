@@ -16,8 +16,8 @@ React Native
 
 Setup:
 
-1. git clone https://github.com/igusic00/React-native-ble-scanner-demo.git
-2. cd React-native-ble-scanner-demo
+1. git clone https://github.com/igusic00/react-native-ble-scanner-demo1.git
+2. cd react-native-ble-scanner-demo1
 3. npm install
 4. react-native run-android
 
