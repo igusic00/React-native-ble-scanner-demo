@@ -22,3 +22,6 @@ Setup:
 4. react-native run-android
 
 
+
+
+![Screenshot_2022-06-01-15-27-24](https://user-images.githubusercontent.com/17699343/171416042-6b5cf70f-b1d9-4b5c-b195-431c3fc2f454.png)
